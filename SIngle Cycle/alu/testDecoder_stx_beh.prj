@@ -1,0 +1,2 @@
+vhdl isim_temp "decoder.vhd"
+vhdl isim_temp "testDecoder.vhd"

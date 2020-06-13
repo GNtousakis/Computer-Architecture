@@ -1,0 +1,6 @@
+vhdl isim_temp "matrix.vhd"
+vhdl isim_temp "registerFalling.vhd"
+vhdl isim_temp "mux.vhd"
+vhdl isim_temp "decoder.vhd"
+vhdl isim_temp "registerFile.vhd"
+vhdl isim_temp "testRF.vhd"

@@ -1,0 +1,4 @@
+vhdl work "register.vhd"
+vhdl work "mux2x1.vhd"
+vhdl work "adder4.vhd"
+vhdl work "IFSTAGE.vhd"

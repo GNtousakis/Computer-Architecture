@@ -1,0 +1,81 @@
+Release 13.4 - xst O.87xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/greg/Documents/labOrganosi/alu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/greg/Documents/labOrganosi/alu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.19 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/matrix.vhd" in Library work.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/decoder.vhd" in Library work.
+Entity <decoder> compiled.
+Entity <decoder> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/register.vhd" in Library work.
+Architecture behavioral of Entity myregister is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/mux.vhd" in Library work.
+Entity <mux> compiled.
+Entity <mux> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/memOffset.vhd" in Library work.
+Architecture behavioral of Entity memoffset is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/mux2x1.vhd" in Library work.
+Architecture behavioral of Entity mux2x1 is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/alu.vhd" in Library work.
+Entity <alu> compiled.
+Entity <alu> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/myCloud.vhd" in Library work.
+Entity <myCloud> compiled.
+Entity <myCloud> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/mux2x1_5bit.vhd" in Library work.
+Entity <mux2x1_5bit> compiled.
+Entity <mux2x1_5bit> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/registerFile.vhd" in Library work.
+Entity <registerFile> compiled.
+Entity <registerFile> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/adder4.vhd" in Library work.
+Architecture behavioral of Entity adder4 is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/IFSTAGE.vhd" in Library work.
+Architecture behavioral of Entity ifstage is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/DECSTAGE.vhd" in Library work.
+Entity <DECSTAGE> compiled.
+Entity <DECSTAGE> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/EXSTAGE.vhd" in Library work.
+Architecture behavioral of Entity exstage is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/MEMSTAGE.vhd" in Library work.
+Entity <memstage> compiled.
+Entity <memstage> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/DATAPATH.vhd" in Library work.
+Entity <datapath> compiled.
+Entity <datapath> (Architecture <behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/CONTROL.vhd" in Library work.
+Entity <CONTROL> compiled.
+Entity <CONTROL> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/RAM.vhd" in Library work.
+Entity <RAM> compiled.
+Entity <RAM> (Architecture <syn>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/PROC_SC.vhd" in Library work.
+Entity <PROC_SC> compiled.
+Entity <PROC_SC> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.61 secs
+ 
+--> 
+
+Total memory usage is 212584 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

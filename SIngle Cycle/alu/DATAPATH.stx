@@ -1,0 +1,50 @@
+Release 13.4 - xst O.87xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/greg/Documents/labOrganosi/alu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/greg/Documents/labOrganosi/alu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/memOffset.vhd" in Library work.
+Architecture behavioral of Entity memoffset is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/mux2x1.vhd" in Library work.
+Architecture behavioral of Entity mux2x1 is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/alu.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/adder4.vhd" in Library work.
+Architecture behavioral of Entity adder4 is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/register.vhd" in Library work.
+Architecture behavioral of Entity myregister is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/IFSTAGE.vhd" in Library work.
+Architecture behavioral of Entity ifstage is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/EXSTAGE.vhd" in Library work.
+Architecture behavioral of Entity exstage is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/MEMSTAGE.vhd" in Library work.
+Architecture behavioral of Entity memstage is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/DATAPATH.vhd" in Library work.
+Architecture behavioral of Entity datapath is up to date.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.36 secs
+ 
+--> 
+
+Total memory usage is 209768 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

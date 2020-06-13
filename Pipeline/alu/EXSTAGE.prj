@@ -1,0 +1,4 @@
+vhdl work "pc_immedAdder.vhd"
+vhdl work "mux2x1.vhd"
+vhdl work "alu.vhd"
+vhdl work "EXSTAGE.vhd"

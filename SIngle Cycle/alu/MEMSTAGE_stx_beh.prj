@@ -1,0 +1,2 @@
+vhdl isim_temp "memOffset.vhd"
+vhdl isim_temp "MEMSTAGE.vhd"

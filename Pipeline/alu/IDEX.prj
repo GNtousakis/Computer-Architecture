@@ -1,0 +1,8 @@
+vhdl work "register4.vhd"
+vhdl work "register1.vhd"
+vhdl work "WB.vhd"
+vhdl work "register5.vhd"
+vhdl work "register.vhd"
+vhdl work "M.vhd"
+vhdl work "EX.vhd"
+vhdl work "IDEX.vhd"

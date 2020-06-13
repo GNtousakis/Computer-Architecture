@@ -1,0 +1,3 @@
+vhdl isim_temp "register4.vhd"
+vhdl isim_temp "register1.vhd"
+vhdl isim_temp "EX.vhd"

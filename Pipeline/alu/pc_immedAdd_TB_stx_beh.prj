@@ -1,0 +1,2 @@
+vhdl isim_temp "pc_immedAdder.vhd"
+vhdl isim_temp "pc_immedAdd_TB.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/greg/Documents/labOrganosi/alu/PROC_SC_TB_isim_beh.exe" -prj "C:/Users/greg/Documents/labOrganosi/alu/PROC_SC_TB_beh.prj" "work.PROC_SC_TB" 

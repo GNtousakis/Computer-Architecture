@@ -1,0 +1,3 @@
+vhdl isim_temp "matrix.vhd"
+vhdl isim_temp "mux.vhd"
+vhdl isim_temp "testMUX.vhd"

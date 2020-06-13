@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/greg/Documents/labOrganosi/alu/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/greg/Documents/labOrganosi/alu/xst"
+elaborate
+-ifn IFSTAGE.prj
+-ifmt mixed

@@ -1,0 +1,67 @@
+ISim log file
+Running: C:\Users\greg\Documents\labOrganosi\alu\PROC_SC_TB_2_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/greg/Documents/labOrganosi/alu/PROC_SC_TB_2_isim_beh.wdb 
+ISim O.87xd (signature 0xc3576ebc)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is greg, on host GREG-PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;C:\Xilinx\13.4\ISE_DS\ISE\/data\*.lic;C:\Xilinx\13.4\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;C:\Xilinx\13.4\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;C:\Xilinx\13.4\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.acresso.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/decoder1/registerFile1/muxComp/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/decoder1/registerFile1/muxComp2/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/ex1/pcImmed/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/memStage1/addrOff/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /proc_sc_tb_2/uut/ram1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /proc_sc_tb_2/uut/ram1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Finished circuit initialization process.
+ISim O.87xd (signature 0xc3576ebc)
+----------------------------------------------------------------------
+INFO:Security:61 - The XILINXD_LICENSE_FILE environment variable is not set.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+ a license, please run the Xilinx License Configuration Manager
+       (xlcm or "Manage Xilinx Licenses".)
+INFO:Security:68a - user is greg, on host GREG-PC.
+ERROR:Security:14 - No feature was available for 'ISIM'.
+
+No such feature exists.
+Feature:       ISIM
+License path:  C:/.Xilinx\Xilinx.lic;C:\Xilinx\13.4\ISE_DS\ISE\/data\*.lic;C:\Xilinx\13.4\ISE_DS\ISE\/coregen/core_licenses\Xilinx.lic;C:\Xilinx\13.4\ISE_DS\ISE\/coregen/core_licenses\XilinxFree.lic;C:\Xilinx\13.4\ISE_DS\EDK/data/core_licenses\Xilinx.lic;
+FLEXnet Licensing error:-5,357
+For further information, refer to the FLEXnet Licensing documentation,
+available at "www.acresso.com".
+----------------------------------------------------------------------
+WARNING: A full ISim License cannot be checked out due to the issues listed above. Please use Xilinx License Configuration Manager to fix these issues in order to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/decoder1/registerFile1/muxComp/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/decoder1/registerFile1/muxComp2/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/ex1/pcImmed/ : Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+at 0 ps, Instance /proc_sc_tb_2/uut/datapath1/memStage1/addrOff/ : Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+at 0 ps, Instance /proc_sc_tb_2/uut/ram1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 0 ps, Instance /proc_sc_tb_2/uut/ram1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+Finished circuit initialization process.
+# run 1.00us
+# run 1.00us
+at 2060 ns(1), Instance /proc_sc_tb_2/uut/ram1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.
+at 2460 ns(1), Instance /proc_sc_tb_2/uut/ram1/ : Warning: CONV_INTEGER: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, and it has been converted to 0.

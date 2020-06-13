@@ -1,0 +1,4 @@
+vhdl isim_temp "mux2x1.vhd"
+vhdl isim_temp "alu.vhd"
+vhdl isim_temp "EXSTAGE.vhd"
+vhdl isim_temp "testEXSTAGE.vhd"

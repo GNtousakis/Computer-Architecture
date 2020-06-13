@@ -1,0 +1,36 @@
+Release 13.4 - xst O.87xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/greg/Documents/labOrganosi/alu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/greg/Documents/labOrganosi/alu/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.16 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/pc_immedAdder.vhd" in Library work.
+Entity <pc_immedadder> compiled.
+ERROR:HDLParsers:808 - "C:/Users/greg/Documents/labOrganosi/alu/pc_immedAdder.vhd" Line 45. shift_left can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/greg/Documents/labOrganosi/alu/pc_immedAdder.vhd" Line 50. + can not have such operands in this context.
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.21 secs
+ 
+--> 
+
+Total memory usage is 207784 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

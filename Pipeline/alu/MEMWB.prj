@@ -1,0 +1,5 @@
+vhdl work "register1.vhd"
+vhdl work "WB.vhd"
+vhdl work "register5.vhd"
+vhdl work "register.vhd"
+vhdl work "MEMWB.vhd"

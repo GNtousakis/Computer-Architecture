@@ -1,0 +1,61 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "C:/Users/greg/Videos/labOrganosi/alu/PROC_SC_TB_2_isim_beh.exe" -prj "C:/Users/greg/Videos/labOrganosi/alu/PROC_SC_TB_2_beh.prj" "work.PROC_SC_TB_2" 
+ISim O.87xd (signature 0xc3576ebc)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/matrix.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/register.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/mux.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/decoder.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/registerFile.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/myCloud.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/mux2x1_5bit.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/mux2x1.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/memOffset.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/alu.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/adder4.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/MEMSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/IFSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/EXSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/DECSTAGE.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/RAM.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/DATAPATH.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/CONTROL.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/PROC_SC.vhd" into library work
+Parsing VHDL file "C:/Users/greg/Videos/labOrganosi/alu/PROC_SC_TB_2.vhd" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1196 - "C:/Users/greg/Videos/labOrganosi/alu/RAM.vhd" Line 28: Readline called past the end of file ramfile
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package textio
+Compiling package std_logic_textio
+Compiling package numeric_std
+Compiling architecture behavioral of entity myregister [myregister_default]
+Compiling architecture behavioral of entity adder4 [adder4_default]
+Compiling architecture behavioral of entity mux2x1 [mux2x1_default]
+Compiling architecture behavioral of entity IFSTAGE [ifstage_default]
+Compiling package std_logic_signed
+Compiling package matrix32
+Compiling architecture behavioral of entity myCloud [mycloud_default]
+Compiling architecture behavioral of entity mux2x1_5bit [mux2x1_5bit_default]
+Compiling architecture behavioral of entity decoder [decoder_default]
+Compiling architecture behavioral of entity mux [mux_default]
+Compiling architecture behavioral of entity registerFile [registerfile_default]
+Compiling architecture behavioral of entity DECSTAGE [decstage_default]
+Compiling architecture behavioral of entity alu [alu_default]
+Compiling architecture behavioral of entity EXSTAGE [exstage_default]
+Compiling architecture behavioral of entity memOffset [memoffset_default]
+Compiling architecture behavioral of entity MEMSTAGE [memstage_default]
+Compiling architecture behavioral of entity DATAPATH [datapath_default]
+Compiling architecture behavioral of entity CONTROL [control_default]
+Compiling architecture syn of entity RAM [ram_default]
+Compiling architecture behavioral of entity PROC_SC [proc_sc_default]
+Compiling architecture behavior of entity proc_sc_tb_2
+Time Resolution for simulation is 1ps.
+Compiled 46 VHDL Units
+Built simulation executable C:/Users/greg/Videos/labOrganosi/alu/PROC_SC_TB_2_isim_beh.exe
+Fuse Memory Usage: 42004 KB
+Fuse CPU Usage: 702 ms

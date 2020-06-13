@@ -1,0 +1,3 @@
+vhdl isim_temp "register.vhd"
+vhdl isim_temp "IFID.vhd"
+vhdl isim_temp "IFID_TB.vhd"

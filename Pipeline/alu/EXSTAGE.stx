@@ -1,0 +1,44 @@
+Release 13.4 - xst O.87xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/greg/Documents/labOrganosi/alu/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/greg/Documents/labOrganosi/alu/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.15 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/mux2x1.vhd" in Library work.
+Architecture behavioral of Entity mux2x1 is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/alu.vhd" in Library work.
+Architecture behavioral of Entity alu is up to date.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/pc_immedAdder.vhd" in Library work.
+Entity <pc_immedadder> compiled.
+Entity <pc_immedAdder> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "C:/Users/greg/Documents/labOrganosi/alu/EXSTAGE.vhd" in Library work.
+Entity <exstage> compiled.
+ERROR:HDLParsers:837 - "C:/Users/greg/Documents/labOrganosi/alu/EXSTAGE.vhd" Line 99. Width mismatch. Expected width 32, Actual width is 5 for dimension 1 of instr20_16.
+ERROR:HDLParsers:837 - "C:/Users/greg/Documents/labOrganosi/alu/EXSTAGE.vhd" Line 100. Width mismatch. Expected width 32, Actual width is 5 for dimension 1 of instr15_11.
+ERROR:HDLParsers:837 - "C:/Users/greg/Documents/labOrganosi/alu/EXSTAGE.vhd" Line 102. Width mismatch. Expected width 32, Actual width is 5 for dimension 1 of writeDest.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.27 secs
+ 
+--> 
+
+Total memory usage is 209192 kilobytes
+
+Number of errors   :    3 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

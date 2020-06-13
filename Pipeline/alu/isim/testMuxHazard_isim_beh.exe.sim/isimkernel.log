@@ -1,0 +1,29 @@
+Command line:
+   testMuxHazard_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49336
+
+Mon May 11 13:47:00 2020
+
+
+ Elaboration Time: 0.015625 sec
+
+ Current Memory Usage: 503.439 Meg
+
+ Total Signals          : 46
+ Total Nets             : 31
+ Total Signal Drivers   : 23
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 391
+Total Line Count : 89
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 503.439 Meg
+
+Mon May 11 13:47:35 2020
+
