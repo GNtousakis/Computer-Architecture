@@ -1,6 +1,6 @@
 # Computer-Architecture
 
-The lab projects of Computer Architecture lesson in 2020. The goal was to create a working mips like processor that could perform basic functions such as:
+This is the lab projects of Computer Architecture lesson in 2020. The goal was to create a working mips-like processor that could perform basic functions such as:
 
 ```shell
 00: addi r5, r0, 8
@@ -21,4 +21,4 @@ We expanded the single cycle to multicycle and pipeline processor.
 
 ## Run 
 
-If you want to run the project just cd the directory you want and run the executable file. 
+If you want to run the project just *cd the directory* you want and *run the executable file*.
